@@ -1,0 +1,207 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{{\tt DOI:}\penalty0{#1}\ }
+  \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
+
+\bibitem{allen2014social}
+{Kelly~A Allen}, {Tracii Ryan}, {DeLeon~L Gray}, {Dennis~M McInerney}, {and}
+  {Lea Waters}. 2014.
+\newblock \showarticletitle{Social media use and social connectedness in
+  adolescents: The positives and the potential pitfalls.}
+\newblock {\em Australian Educational \& Developmental Psychologist\/} {31}, 1
+  (2014).
+\newblock
+
+
+\bibitem{baker2008blogging}
+{James~R Baker} {and} {Susan~M Moore}. 2008.
+\newblock \showarticletitle{Blogging as a social tool: A psychosocial
+  examination of the effects of blogging}.
+\newblock {\em CyberPsychology \& Behavior\/} {11}, 6 (2008), 747--749.
+\newblock
+
+
+\bibitem{barry2017adolescent}
+{Christopher~T Barry}, {Chloe~L Sidoti}, {Shanelle~M Briggs}, {Shari~R Reiter},
+  {and} {Rebecca~A Lindsey}. 2017.
+\newblock \showarticletitle{Adolescent social media use and mental health from
+  adolescent and parent perspectives}.
+\newblock {\em Journal of adolescence\/}  {61} (2017), 1--11.
+\newblock
+
+
+\bibitem{bessiere2008effects}
+{Katherine Bessiere}, {Sara Kiesler}, {Robert Kraut}, {and} {Bonka~S Boneva}.
+  2008.
+\newblock \showarticletitle{Effects of Internet use and social resources on
+  changes in depression}.
+\newblock {\em Information, Community \& Society\/} {11}, 1 (2008), 47--70.
+\newblock
+
+
+\bibitem{boyd2014s}
+{Danah Boyd}. 2014.
+\newblock {\em It's complicated: The social lives of networked teens}.
+\newblock Yale University Press.
+\newblock
+
+
+\bibitem{dogra2012nigerian}
+{Nisha Dogra}, {Olayinka Omigbodun}, {Tunde Adedokun}, {Tolulope Bella}, {Pablo
+  Ronzoni}, {and} {Adekunle Adesokan}. 2012.
+\newblock \showarticletitle{Nigerian secondary school children’s knowledge of
+  and attitudes to mental health and illness}.
+\newblock {\em Clinical child psychology and psychiatry\/} {17}, 3 (2012),
+  336--353.
+\newblock
+
+
+\bibitem{ehrenreich2016adolescents}
+{Samuel~E Ehrenreich} {and} {Marion~K Underwood}. 2016.
+\newblock \showarticletitle{Adolescents’ internalizing symptoms as predictors
+  of the content of their Facebook communication and responses received from
+  peers.}
+\newblock {\em Translational issues in psychological science\/} {2}, 3 (2016),
+  227.
+\newblock
+
+
+\bibitem{espinoza2011pervasiveness}
+{Guadalupe Espinoza} {and} {Jaana Juvonen}. 2011.
+\newblock \showarticletitle{The pervasiveness, connectedness, and intrusiveness
+  of social network site use among young adolescents}.
+\newblock {\em Cyberpsychology, Behavior, and Social Networking\/} {14}, 12
+  (2011), 705--709.
+\newblock
+
+
+\bibitem{frison2016short}
+{Eline Frison}, {Kaveri Subrahmanyam}, {and} {Steven Eggermont}. 2016.
+\newblock \showarticletitle{The short-term longitudinal and reciprocal
+  relations between peer victimization on Facebook and adolescents’
+  well-being}.
+\newblock {\em Journal of youth and adolescence\/} {45}, 9 (2016), 1755--1771.
+\newblock
+
+
+\bibitem{gkotsis2017characterisation}
+{George Gkotsis}, {Anika Oellrich}, {Sumithra Velupillai}, {Maria Liakata},
+  {Tim~JP Hubbard}, {Richard~JB Dobson}, {and} {Rina Dutta}. 2017.
+\newblock \showarticletitle{Characterisation of mental health conditions in
+  social media using Informed Deep Learning}.
+\newblock {\em Scientific reports\/}  {7} (2017), 45141.
+\newblock
+
+
+\bibitem{kelly2018social}
+{Yvonne Kelly}, {Afshin Zilanawala}, {Cara Booker}, {and} {Amanda Sacker}.
+  2018.
+\newblock \showarticletitle{Social media use and adolescent mental health:
+  Findings from the UK Millennium Cohort Study}.
+\newblock {\em EClinicalMedicine\/}  {6} (2018), 59--68.
+\newblock
+
+
+\bibitem{kraut2002internet}
+{Robert Kraut}, {Sara Kiesler}, {Bonka Boneva}, {Jonathon Cummings}, {Vicki
+  Helgeson}, {and} {Anne Crawford}. 2002.
+\newblock \showarticletitle{Internet paradox revisited}.
+\newblock {\em Journal of social issues\/} {58}, 1 (2002), 49--74.
+\newblock
+
+
+\bibitem{kraut1998internet}
+{Robert Kraut}, {Michael Patterson}, {Vicki Lundmark}, {Sara Kiesler}, {Tridas
+  Mukophadhyay}, {and} {William Scherlis}. 1998.
+\newblock \showarticletitle{Internet paradox: A social technology that reduces
+  social involvement and psychological well-being?}
+\newblock {\em American psychologist\/} {53}, 9 (1998), 1017.
+\newblock
+
+
+\bibitem{mesch2009parental}
+{Gustavo~S Mesch}. 2009.
+\newblock \showarticletitle{Parental mediation, online activities, and
+  cyberbullying}.
+\newblock {\em CyberPsychology \& Behavior\/} {12}, 4 (2009), 387--393.
+\newblock
+
+
+\bibitem{o2018social}
+{Michelle O’Reilly}, {Nisha Dogra}, {Natasha Whiteman}, {Jason Hughes},
+  {Seyda Eruyar}, {and} {Paul Reilly}. 2018.
+\newblock \showarticletitle{Is social media bad for mental health and
+  wellbeing? Exploring the perspectives of adolescents}.
+\newblock {\em Clinical child psychology and psychiatry\/} {23}, 4 (2018),
+  601--613.
+\newblock
+
+
+\bibitem{scott2018fear}
+{Holly Scott} {and} {Heather~Cleland Woods}. 2018.
+\newblock \showarticletitle{Fear of missing out and sleep: Cognitive
+  behavioural factors in adolescents' nighttime social media use}.
+\newblock {\em Journal of adolescence\/}  {68} (2018), 61--65.
+\newblock
+
+
+\bibitem{47_sm_facts}
+{Dan Shewan}. 2019.
+\newblock 47 Social Media Facts To Blow Your Mind.
+\newblock   (2019).
+\newblock
+
+
+\bibitem{126_sm_facts}
+{Kit Smith}. 2019.
+\newblock 126 Amazing Social Media Statistics and Facts.
+\newblock   (2019).
+\newblock
+
+
+\bibitem{underwood2017power}
+{Marion~K Underwood} {and} {Samuel~E Ehrenreich}. 2017.
+\newblock \showarticletitle{The power and the pain of adolescents’ digital
+  communication: Cyber victimization and the perils of lurking.}
+\newblock {\em American Psychologist\/} {72}, 2 (2017), 144.
+\newblock
+
+
+\bibitem{van2013culture}
+{Jos{\'e} Van~Dijck}. 2013.
+\newblock {\em The culture of connectivity: A critical history of social
+  media}.
+\newblock Oxford University Press.
+\newblock
+
+
+\end{thebibliography}
