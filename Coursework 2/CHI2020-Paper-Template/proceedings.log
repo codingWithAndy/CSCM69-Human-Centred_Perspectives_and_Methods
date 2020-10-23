@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  23 OCT 2020 14:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  23 OCT 2020 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1214,70 +1214,57 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 Excluding 'CCSXML' comment.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 181.
- [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-Non-PDF special ignored!
-<special> papersize=8.5in,11in
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<instagram_example2.jpeg, id=112, 1122.1925pt x 1361.085pt>
-File: instagram_example2.jpeg Graphic file (type jpg)
-<use instagram_example2.jpeg>
-Package pdftex.def Info: instagram_example2.jpeg  used on input line 217.
-(pdftex.def)             Requested size: 142.26378pt x 172.54434pt.
- [2 <./instagram_example2.jpeg>]
-<instagram_example2.jpg, id=136, 1095.09125pt x 1094.0875pt>
-File: instagram_example2.jpg Graphic file (type jpg)
-<use instagram_example2.jpg>
-Package pdftex.def Info: instagram_example2.jpg  used on input line 233.
-(pdftex.def)             Requested size: 142.26378pt x 142.1195pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-(./proceedings.bbl
-
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
-
-[3 <./instagram_example2.jpg>]
+ (./proceedings.bbl
 Overfull \hbox (20.07736pt too wide) in paragraph at lines 79--87
 \T1/txtt/bx/n/8 20-[]influencer-[]marketing-[]statistics-[]that-[]will-[]surpri
 se-[]you$[][][] 
  []
 
-) [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
+[1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+Non-PDF special ignored!
+<special> papersize=8.5in,11in
+
+]) [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 231.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 231.
  (./proceedings.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 257.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
-Package rerunfilecheck Info: File `proceedings.out' has not changed.
-(rerunfilecheck)             Checksum: 939CEA530931CA596BC59969A4B22095;305.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 257.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 231.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 231.
+
+
+Package rerunfilecheck Warning: File `proceedings.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `proceedings.out':
+(rerunfilecheck)             Before: 939CEA530931CA596BC59969A4B22095;305
+(rerunfilecheck)             After:  66E00DF411D8985CA897976E8D8C39BC;404.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 231.
  ) 
 Here is how much of TeX's memory you used:
- 20077 strings out of 492616
- 369562 string characters out of 6129480
- 475991 words of memory out of 5000000
- 23366 multiletter control sequences out of 15000+600000
- 77453 words of font info for 207 fonts, out of 8000000 for 9000
+ 19979 strings out of 492616
+ 368573 string characters out of 6129480
+ 472991 words of memory out of 5000000
+ 23357 multiletter control sequences out of 15000+600000
+ 72706 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,81p,1782b,578s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive
-/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/t
-exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/
-fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type
-1/urw/times/utmri8a.pfb>
-Output written on proceedings.pdf (4 pages, 893971 bytes).
+ 62i,10n,81p,421b,578s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section.12} has been referenced but does not exis
+t, replaced by a fixed one
+
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive/2
+019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/tex
+mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fo
+nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on proceedings.pdf (2 pages, 78185 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 24231 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 143 PDF objects out of 1000 (max. 8388607)
+ 115 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 24221 words of extra memory for PDF output out of 24883 (max. 10000000)
 
