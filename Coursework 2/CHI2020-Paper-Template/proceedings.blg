@@ -5,60 +5,52 @@ The style file: SIGCHI-Reference-Format.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: sample.bib
-Warning--entry type for "126_sm_facts" isn't style-file defined
---line 1 of file sample.bib
-Warning--entry type for "47_sm_facts" isn't style-file defined
---line 9 of file sample.bib
-I was expecting a `,' or a `}'---line 13 of file sample.bib
- :  
- :  note   = {[Accessed on: October 10, 2020]},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Warning--entry type for "influencers" isn't style-file defined
---line 215 of file sample.bib
+Warning--entry type for "harvard_review" isn't style-file defined
+--line 40 of file sample.bib
+Warning--entry type for "work-life_2020" isn't style-file defined
+--line 48 of file sample.bib
+Warning--entry type for "rescuetime_study" isn't style-file defined
+--line 56 of file sample.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Warning--page numbers missing in both pages and numpages fields in allen2014social
-Warning--empty address in boyd2014s
-Warning--empty address in van2013culture
-You've used 21 entries,
+You've used 3 entries,
             5283 wiz_defined-function locations,
-            1351 strings with 18685 characters,
-and the built_in function-call counts, 22081 in all, are:
-= -- 3453
-> -- 706
+            1231 strings with 14519 characters,
+and the built_in function-call counts, 4039 in all, are:
+= -- 520
+> -- 58
 < -- 0
-+ -- 227
-- -- 426
-* -- 1410
-:= -- 2218
-add.period$ -- 109
-call.type$ -- 21
-change.case$ -- 152
-chr.to.int$ -- 21
-cite$ -- 24
-duplicate$ -- 1509
-empty$ -- 1088
-format.name$ -- 297
-if$ -- 5567
++ -- 15
+- -- 199
+* -- 276
+:= -- 405
+add.period$ -- 18
+call.type$ -- 3
+change.case$ -- 16
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 148
+empty$ -- 115
+format.name$ -- 27
+if$ -- 709
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 68
-newline$ -- 189
-num.names$ -- 126
-pop$ -- 570
+missing$ -- 0
+newline$ -- 67
+num.names$ -- 18
+pop$ -- 59
 preamble$ -- 1
-purify$ -- 236
+purify$ -- 28
 quote$ -- 0
-skip$ -- 439
+skip$ -- 39
 stack$ -- 0
-substring$ -- 2079
-swap$ -- 162
-text.length$ -- 350
+substring$ -- 820
+swap$ -- 6
+text.length$ -- 353
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 181
-warning$ -- 3
-while$ -- 135
+type$ -- 27
+warning$ -- 0
+while$ -- 21
 width$ -- 0
-write$ -- 313
-(There was 1 error message)
+write$ -- 84
+(There were 3 warnings)
