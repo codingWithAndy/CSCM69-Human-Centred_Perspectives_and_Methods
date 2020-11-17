@@ -12,45 +12,56 @@ Warning--entry type for "work-life_2020" isn't style-file defined
 Warning--entry type for "rescuetime_study" isn't style-file defined
 --line 56 of file sample.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 3 entries,
+Warning--empty publisher in fleck2015balancing
+Warning--empty address in fleck2015balancing
+Warning--empty address in siggroup2005group
+Warning--empty publisher in lindley2012s
+Warning--empty address in lindley2012s
+Warning--empty publisher in peters2012sig
+Warning--empty address in peters2012sig
+Warning--empty publisher in sadler2006balancing
+Warning--empty address in sadler2006balancing
+Warning--empty publisher in stawarz2013d
+Warning--empty address in stawarz2013d
+You've used 12 entries,
             5283 wiz_defined-function locations,
-            1231 strings with 14519 characters,
-and the built_in function-call counts, 4039 in all, are:
-= -- 520
-> -- 58
+            1284 strings with 16442 characters,
+and the built_in function-call counts, 12466 in all, are:
+= -- 1548
+> -- 349
 < -- 0
-+ -- 15
-- -- 199
-* -- 276
-:= -- 405
-add.period$ -- 18
-call.type$ -- 3
-change.case$ -- 16
-chr.to.int$ -- 3
-cite$ -- 3
-duplicate$ -- 148
-empty$ -- 115
-format.name$ -- 27
-if$ -- 709
++ -- 105
+- -- 298
+* -- 815
+:= -- 1320
+add.period$ -- 66
+call.type$ -- 12
+change.case$ -- 79
+chr.to.int$ -- 12
+cite$ -- 23
+duplicate$ -- 912
+empty$ -- 650
+format.name$ -- 147
+if$ -- 2771
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 67
-num.names$ -- 18
-pop$ -- 59
+missing$ -- 27
+newline$ -- 127
+num.names$ -- 72
+pop$ -- 377
 preamble$ -- 1
-purify$ -- 28
+purify$ -- 127
 quote$ -- 0
-skip$ -- 39
+skip$ -- 256
 stack$ -- 0
-substring$ -- 820
-swap$ -- 6
+substring$ -- 1537
+swap$ -- 90
 text.length$ -- 353
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 27
-warning$ -- 0
-while$ -- 21
+type$ -- 104
+warning$ -- 11
+while$ -- 78
 width$ -- 0
-write$ -- 84
-(There were 3 warnings)
+write$ -- 198
+(There were 14 warnings)

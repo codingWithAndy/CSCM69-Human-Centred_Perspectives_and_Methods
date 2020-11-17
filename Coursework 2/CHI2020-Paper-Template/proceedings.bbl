@@ -32,6 +32,38 @@
 \ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
 \ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
 
+\bibitem{flanagin2005online}
+{Andrew~J Flanagin}. 2005.
+\newblock \showarticletitle{IM online: Instant messaging use among college
+  students}.
+\newblock {\em Communication Research Reports\/} {22}, 3 (2005), 175--187.
+\newblock
+
+
+\bibitem{fleck2015balancing}
+{Rowanne Fleck}, {Anna~L Cox}, {and} {Rosalyn~AV Robison}. 2015.
+\newblock \showarticletitle{Balancing boundaries: Using multiple devices to
+  manage work-life balance}. In {\em Proceedings of the 33rd Annual ACM
+  Conference on Human Factors in Computing Systems}. 3985--3988.
+\newblock
+
+
+\bibitem{gronvall2016hci}
+{Erik Gr{\"o}nvall}, {Luigina Ciolfi}, {Gabriela Avram}, {Chiara Rossitto},
+  {and} {Louise Barkhuus}. 2016.
+\newblock HCI at the boundary of work and life.
+\newblock   (2016).
+\newblock
+
+
+\bibitem{siggroup2005group}
+{SIGGROUP (Group).} {and} {others}. 2005.
+\newblock {\em GROUP...: Proceedings of the International ACM SIGGROUP
+  Conference on Supporting Group Work}.
+\newblock Association for Computing Machinery.
+\newblock
+
+
 \bibitem{work-life_2020}
 {Marija Kovachevska}. 2020.
 \newblock 30 Home-invading Work-Life Balance Statistics for 2020.
@@ -41,6 +73,15 @@
 \url{https://healthcareers.co/work-life-balance-statistics/}}
 \newblock
 \shownote{[Accessed on: November 14, 2020].}
+
+
+\bibitem{lindley2012s}
+{Si{\^a}n~E Lindley}, {Sam Meek}, {Abigail Sellen}, {and} {Richard Harper}.
+  2012.
+\newblock \showarticletitle{" It's simply integral to what I do" enquiries into
+  how the web is weaved into everyday life}. In {\em Proceedings of the 21st
+  international conference on World Wide Web}. 1067--1076.
+\newblock
 
 
 \bibitem{rescuetime_study}
@@ -63,6 +104,41 @@
 \url{https://hbr.org/2009/10/making-time-off-predictable-and-required}}
 \newblock
 \shownote{[Accessed on: November 14, 2020].}
+
+
+\bibitem{peters2012sig}
+{Anicia Peters}, {Susan Dray}, {and} {Jofish Kaye}. 2012.
+\newblock \showarticletitle{SIG: Work life balance in HCI}.
+\newblock In {\em CHI'12 Extended Abstracts on Human Factors in Computing
+  Systems}. 1229--1232.
+\newblock
+
+
+\bibitem{rennecker2003theorizing}
+{Julie Rennecker} {and} {Lindsey Godwin}. 2003.
+\newblock \showarticletitle{Theorizing the unintended consequences of instant
+  messaging for worker productivity}.
+\newblock {\em Sprouts: Working Papers on Information Environments, Systems and
+  Organizations\/} {3}, 3 (2003), 137--168.
+\newblock
+
+
+\bibitem{sadler2006balancing}
+{Kirsten Sadler}, {Toni Robertson}, {Melanie Kan}, {and} {Penny Hagen}. 2006.
+\newblock \showarticletitle{Balancing work, life and other concerns: a study of
+  mobile technology use by Australian freelancers}. In {\em Proceedings of the
+  4th Nordic conference on Human-computer interaction: changing roles}.
+  413--416.
+\newblock
+
+
+\bibitem{stawarz2013d}
+{Katarzyna Stawarz}, {Anna~L Cox}, {Jon Bird}, {and} {Rachel Benedyk}. 2013.
+\newblock \showarticletitle{"I'd sit at home and do work emails" how tablets
+  affect the work-life balance of office workers}.
+\newblock In {\em CHI'13 Extended Abstracts on Human Factors in Computing
+  Systems}. 1383--1388.
+\newblock
 
 
 \end{thebibliography}
