@@ -32,6 +32,23 @@
 \ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
 \ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
 
+\bibitem{baer2003mindfulness}
+{Ruth~A Baer}. 2003.
+\newblock \showarticletitle{Mindfulness training as a clinical intervention: A
+  conceptual and empirical review}.
+\newblock {\em Clinical psychology: Science and practice\/} {10}, 2 (2003),
+  125--143.
+\newblock
+
+
+\bibitem{dauden2018evaluating}
+{Claudia Daud{\'e}n~Roquet} {and} {Corina Sas}. 2018.
+\newblock \showarticletitle{Evaluating mindfulness meditation apps}. In {\em
+  Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing
+  Systems}. 1--6.
+\newblock
+
+
 \bibitem{flanagin2005online}
 {Andrew~J Flanagin}. 2005.
 \newblock \showarticletitle{IM online: Instant messaging use among college
@@ -93,6 +110,15 @@
 \url{https://blog.rescuetime.com/work-life-balance-study-2019/}}
 \newblock
 \shownote{[Accessed on: November 14, 2020].}
+
+
+\bibitem{mani2015review}
+{Madhavan Mani}, {David~J Kavanagh}, {Leanne Hides}, {and} {Stoyan~R Stoyanov}.
+  2015.
+\newblock \showarticletitle{Review and evaluation of mindfulness-based iPhone
+  apps}.
+\newblock {\em JMIR mHealth and uHealth\/} {3}, 3 (2015), e82.
+\newblock
 
 
 \bibitem{harvard_review}
