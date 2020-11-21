@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  21 NOV 2020 12:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  21 NOV 2020 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1220,29 +1220,22 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 Non-PDF special ignored!
 <special> papersize=8.5in,11in
 
-] [2] [3] (./proceedings.bbl) [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 417.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 417.
+] [2] [3] (./proceedings.bbl [4]) [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 451.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 451.
  (./proceedings.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 417.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 417.
-
-
-Package rerunfilecheck Warning: File `proceedings.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `proceedings.out':
-(rerunfilecheck)             Before: 7A7703884083C46565C26CFFC736C68A;738
-(rerunfilecheck)             After:  CC62938DD6EACBD6174AD5B989DB5D74;722.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 417.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 451.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 451.
+Package rerunfilecheck Info: File `proceedings.out' has not changed.
+(rerunfilecheck)             Checksum: 89532866DDAB2850C67E81202897FD13;722.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 451.
  ) 
 Here is how much of TeX's memory you used:
- 20056 strings out of 492616
- 369115 string characters out of 6129480
- 485652 words of memory out of 5000000
- 23355 multiletter control sequences out of 15000+600000
- 75787 words of font info for 201 fonts, out of 8000000 for 9000
+ 20072 strings out of 492616
+ 369294 string characters out of 6129480
+ 480826 words of memory out of 5000000
+ 23362 multiletter control sequences out of 15000+600000
+ 76894 words of font info for 202 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,10n,81p,1822b,578s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -1252,10 +1245,10 @@ xlive/2019/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive
 exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/
 fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on proceedings.pdf (4 pages, 98101 bytes).
+Output written on proceedings.pdf (5 pages, 102767 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
+ 206 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
+ 53 named destinations out of 1000 (max. 500000)
  24261 words of extra memory for PDF output out of 24883 (max. 10000000)
 

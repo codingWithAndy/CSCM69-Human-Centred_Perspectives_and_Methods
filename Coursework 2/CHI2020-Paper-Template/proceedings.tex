@@ -265,10 +265,12 @@ Please use the 2012 Classifiers and see this link to embed them in the text: \ur
 
 
 \section{Write up your results}
-	place the results here in tables etc and discuss about them.
-	
-	\begin{center}
-		\begin{tabular}{ |c| c | }
+
+	Section intro.
+
+	\begin{table}[ht]
+		\centering
+		\begin{tabular}[t]{|c| c |}
 			\hline
 			Gener & Total  \\ 
 			\hline
@@ -278,12 +280,18 @@ Please use the 2012 Classifiers and see this link to embed them in the text: \ur
 			\hline
 			Prefer not to say &  0\\
 			\hline
-			
 		\end{tabular}
-	\end{center}
+		% Or to place a caption below a table
+		\caption{The total number of participants by gender.}
+		\label{tab:gender}
+	\end{table}%
 
-	\begin{center}
-		\begin{tabular}{ |c| c | }
+
+	After conducting the questionnaire, we had a total of 16 responses. Seven responses were male participants, and nine were female (see table: \ref{tab:gender}). While it is not exactly fifty-fifty in terms of male and female participants, it is fairly close in terms of their being less likely for any bias within the results and giving a good generalisation. 
+	
+	\begin{table}[ht]
+		\centering
+		\begin{tabular}[t]{ |c| c | }
 			\hline
 			In what direction would you say & \\
 			your work life balance leans towards? & Total  \\ 
@@ -294,63 +302,83 @@ Please use the 2012 Classifiers and see this link to embed them in the text: \ur
 			\hline
 			Fairly equal &  10 \\
 			\hline
-			
 		\end{tabular}
-	\end{center}
-
-	\begin{center}
-		\begin{tabular}{ |c| c | }
-			\hline
-			What Applications have the biggest & \\
-			 impact (positive and/or negative) & \\
-			  on your work-life balance?  & Total  \\ 
-			\hline
-			Emails & 10 \\ 
-			\hline
-			Mindfull Apps & 6  \\ 
-			\hline
-			Instand Messaging &  14 \\
-			\hline
-			
-		\end{tabular}
-	\end{center}
+		% Or to place a caption below a table
+		\caption{???.}
+		\label{tab:work_life_swing}
+	\end{table}%
 	
-	\begin{center}
-		\begin{tabular}{ |c| c | }
-			\hline
-			What device have the biggest & \\
-			impact (positive and/or negative) & \\
-			on your work-life balance?  & Total  \\ 
-			\hline
-			Desktop Computer & 0 \\ 
-			\hline
-			Laptop & 3  \\ 
-			\hline
-			Mobile Device &  13 \\
-			\hline
-			
-		\end{tabular}
-	\end{center}
+	From the questionnaire, ten participants said that their work-life balance (see table: \ref{tab:work_life_swing}) is relatively equal, but five said they lean more towards focusing on work. What we believe is worrying is that only one participant said that they lean more towards life. So these factors bring about, do we live to work or work to live and is it the technology that is making us lean more towards work with being so easily contactable. This statement is due to (see table: \ref{tab:app_impact}) the question of "what applications have the biggest impact (positive and/or negative) on your work-life balance" and IM receiving fourteen votes. So that means that only two participants feel that their IM does not impact on their work-life balance. While ten participants have said emails impact them. However, when we look at the average scores of the individual apps and devices impact (see table: \ref{tab:general_qs}), we can see that mobile phones and IM both had an average score of 3.5. Therefore meaning the results were leaning more towards having a negative impact. While on the other hand, emails were 3.1, so learning towards a more neutral impact but yet email was the second most significant impact on work-life balance. So could this mean that people think emails impact them more than they do and that IM is the main application that impacts that balance?
 
-	\begin{center}
-		\begin{tabular}{ |c| c | }
-			\hline
-			What device do you use the most for work? & Total  \\ 
-			\hline
-			Desktop Computer & 6 \\ 
-			\hline
-			Laptop & 9  \\ 
-			\hline
-			Mobile Device &  1 \\
-			\hline
-			
-		\end{tabular}
-	%\caption{Table to test captions and labels}
-	\label{Long table caption}
-	\end{center}
 
-\begin{center}
-	\begin{tabular}{ |c| c | }
+
+
+When we look at the results in table \ref{tab:device_social}, we can see that 100\% of the participants said that the mobile phone was the device they used the most when doing personal tasks. However, when we look at the impact of mobile phones, the average score is 3.5. Showing that the mobile phone generally has a more negative impact, but if it is the phone is what they use for the user's life tasks, is it that the phone is harming work or their private life? 
+
+\begin{table}[ht]
+	\centering
+	\begin{tabular}[t]{ |c| c | }
+		\hline
+		What Applications have the biggest & \\
+		impact (positive and/or negative) & \\
+		on your work-life balance?  & Total  \\ 
+		\hline
+		Emails & 10 \\ 
+		\hline
+		Mindfull Apps & 6  \\ 
+		\hline
+		Instand Messaging &  14 \\
+		\hline
+		
+	\end{tabular}
+	% Or to place a caption below a table
+	\caption{????.}
+	\label{tab:app_impact}
+\end{table}%
+
+\begin{table}[ht]
+	\centering
+	\begin{tabular}[t]{ |c| c | }
+		\hline
+		What device have the biggest & \\
+		impact (positive and/or negative) & \\
+		on your work-life balance?  & Total  \\ 
+		\hline
+		Desktop Computer & 0 \\ 
+		\hline
+		Laptop & 3  \\ 
+		\hline
+		Mobile Device &  13 \\
+		\hline
+		
+	\end{tabular}
+	% Or to place a caption below a table
+	\caption{????.}
+	\label{tab:device_impact}
+\end{table}%
+
+\begin{table}[ht]
+	\centering
+	\begin{tabular}[t]{ |c| c | }
+		\hline
+		What device do you use the most for work? & Total  \\ 
+		\hline
+		Desktop Computer & 6 \\ 
+		\hline
+		Laptop & 9  \\ 
+		\hline
+		Mobile Device &  1 \\
+		\hline
+	\end{tabular}
+	% Or to place a caption below a table
+	\caption{????.}
+	\label{tab:device_work}
+\end{table}%
+	
+
+\begin{table}[ht]
+	\centering
+	\begin{tabular}[t]{ |c| c | }
 		\hline
 		What device do you use the most for social? & Total  \\ 
 		\hline
@@ -360,47 +388,53 @@ Please use the 2012 Classifiers and see this link to embed them in the text: \ur
 		\hline
 		Mobile Device &  16 \\
 		\hline
-		
 	\end{tabular}
-\end{center}
+	% Or to place a caption below a table
+	\caption{????.}
+	\label{tab:device_social}
+\end{table}%
 
-	
-	\begin{center}
-		\begin{tabular}{ |c| c | }
-			\hline
-			Question & Average Result  \\ 
-			\hline
-			How important is work & \\
-			life balance to you? & \\
-			1: Not Important & \\
-			5: Very Important & 4.8 \\ 
-			\hline
-			How much would you say & \\
-			emails impacts on your & \\
-			work-life balance? & \\
-			1: Improves Balance & \\
-			5: Negative Effect & 3.1  \\ 
-			\hline
-			How much would you say & \\
-			Instant messaging impacts on your & \\
-			work-life balance? & \\
-			1: Improves Balance & \\
-			5: Negative Effect & 3.5 \\
-			\hline
-			How much would you say & \\
-			mindful apps impacts on your & \\
-			work-life balance? & \\
-			1: Improves Balance & \\
-			5: Negative Effect & 2.8 \\
-			\hline
-			How much would you say & \\
-			mobile devices impacts on your & \\
-			work-life balance? & \\
-			1: Improves Balance & \\
-			5: Negative Effect & 3.5 \\
-			\hline
-		\end{tabular}
-	\end{center}
+\begin{table}[ht]
+	\centering
+	\begin{tabular}[t]{ |c| c | }
+		\hline
+		Question & Average Result  \\ 
+		\hline
+		How important is work & \\
+		life balance to you? & \\
+		1: Not Important & \\
+		5: Very Important & 4.8 \\ 
+		\hline
+		How much would you say & \\
+		emails impacts on your & \\
+		work-life balance? & \\
+		1: Improves Balance & \\
+		5: Negative Effect & 3.1  \\ 
+		\hline
+		How much would you say & \\
+		Instant messaging impacts on your & \\
+		work-life balance? & \\
+		1: Improves Balance & \\
+		5: Negative Effect & 3.5 \\
+		\hline
+		How much would you say & \\
+		mindful apps impacts on your & \\
+		work-life balance? & \\
+		1: Improves Balance & \\
+		5: Negative Effect & 2.8 \\
+		\hline
+		How much would you say & \\
+		mobile devices impacts on your & \\
+		work-life balance? & \\
+		1: Improves Balance & \\
+		5: Negative Effect & 3.5 \\
+		\hline
+	\end{tabular}
+	% Or to place a caption below a table
+	\caption{????.}
+	\label{tab:general_qs}
+\end{table}%	
+
 
 \section{Conclusion}
 	 
